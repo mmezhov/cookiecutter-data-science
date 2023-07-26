@@ -47,3 +47,5 @@ Project Organization
             └── visualize.py
 
 --------
+
+Read more about a data science project organisation here: http://drivendata.github.io/cookiecutter-data-science/
